@@ -1,4 +1,4 @@
 public class Car{
-	String name="Honda";
-	Int age=8;
+	String name="Tokyo";
+
 }

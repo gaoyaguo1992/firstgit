@@ -1,4 +1,4 @@
 public class Animal{
-	String name="fox";
-	Int age=6;
+	String name="wolf";
+
 }
