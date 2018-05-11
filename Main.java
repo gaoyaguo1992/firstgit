@@ -1,4 +1,4 @@
  public class Person {
 	 String name="Harden";
-	 Int age=20;
+	 Int age=30;
  }
